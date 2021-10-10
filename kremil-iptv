@@ -1,68 +1,116 @@
 #EXTM3U refresh="3600"
 #EXTM3U
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_tvri_small1.png?v=2.0.0.13",TVRI
-https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_antv_big1.png",ANTV
-https://conversant.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_indosiar_small1.png?v=2.0.0.15",Indosiar
-https://conversant.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_transtv_small1.png?v=2.0.0.13",Trans-TV
-https://conversant.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="http://pic.dens.tv/tv_150x150/MNCTV_1.png",MNC
-https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="http://pic.dens.tv/tv_150x150/RCTI_1.png",RCTI
-https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_sctv_small1.png?v=2.0.0.15",SCTV
-https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/32ea2fa75b4385a5fc2d",GTV
-https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_net_small1.png?v=2.0.0.13",NET
-https://conversant.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="http://pic.dens.tv/tv_150x150/TVOne_1.png",Tv-One
-https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_trans7_small1.png?v=2.0.0.13",Trans-7
-https://conversant.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_insert_small1.png?v=2.0.0.13",insert_USEE
-https://cdngb196.useetv.com/dass/130/insert_dash/manifest_wuseetv.mpd?encp=8EVuQlO1q_Xx0Cgh18AMkg&uid=&expp=1630137609
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png",OK TV
-https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_rri_small1.png?v=2.0.0.13",rrinet_USEE
-https://gpc.my.id/usee/rrinet.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_beritasatu_small1.png?v=2.0.0.13",Berita-Satu
-https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_balitv_small1.png?v=2.0.0.13",balitv_USEE
-https://gpc.my.id/usee/balitv.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_metrotv_small1.png?v=2.0.0.13",Metro-TV
-https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_kompastv_small.png?v=2.0.0.13",Kompas-Tv
-https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_inews_small.png",iNews
-https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_antara_small1.png?v=2.0.0.13",antara_USEE
-https://gpc.my.id/usee/antara.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_jtv_small1.png?v=2.0.0.13",JTV
-https://liveanevia.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_jaktv_small1.png?v=2.0.0.13",Jak-tv
-https://gpc.my.id/vidio/jaktv.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_tawaftv_small.png",tawaftv_USEE
-https://gpc.my.id/usee/tawaftv.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6045a3372f9c6a0001d0d8c9/picture",Ochannel
-https://gpc.my.id/vidio/ochannel.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_uchannel_small1.png?v=2.0.0.13",uchannel_USEE
-https://gpc.my.id/usee/uchannel.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_rtv_small1.png?v=2.0.0.13",RTV
-https://gpc.my.id/vidio/rtv.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_rodjatv_small1.png?v=2.0.0.13",rodjatv_USEE
-https://gpc.my.id/usee/rodjatv.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://lh3.googleusercontent.com/proxy/tKzO5NAoTVDSmg_f4ECrJvkS-Y2dXlHWmYAGvh1qd-UK_XTd_EUV_EjfANk9AnbsLjCuKpzBenL-o99SLSJo-IKYLdYLy1HBstNAyWif4XZO6B-hXmoK3ajiS99c_tChbpayuYS6SWhh_Q",AJWA-TV
-https://gpc.my.id/vidio/ajwa-tv.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png",My_TV
-https://gpc.my.id/vidio/mytv.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_nusantaratv_small.png?v=1.1",NusantaraTV
-https://gpc.my.id/vidio/nusantara-tv.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_daaitv_small1.png?v=2.0.0.13",DAAI-Tv
-https://gpc.my.id/vidio/daai-tv.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="https://images.useetv.com/logo_tvmui_small.png?v=2.0.0.13",muitv_USEE
-https://gpc.my.id/usee/muitv.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="BathokGpc" group-title="Lokal" tvg-logo="http://live.artvisi.or.id/logo/fatwatv.png",Fatwa TV
-https://gpc.my.id/ytlive/fatwa-tv.m3u8
+#EXTM3U refresh="3600"
+#PLAYLIST:kremiltipi
+#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Movie" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+http://gpc.my.id/kopi.ts?11
+#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Movie" tvg-name="donasi https://saweria.co/bathokGPC",donasi https://saweria.co/bathokGPC
+http://gpc.my.id/kopi.ts?12
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_zbioskop_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="Zee-Bioskop" group-title="Movie",Zee-Bioskop
+https://gpc.my.id/vidio/zee-bioskop.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png/revision/latest?cb=20191014052144" tvg-id="BathokGpc" tvg-name="Citra-Bioskop" group-title="Movie",Citra-Bioskop
+https://gpc.my.id/vidio/citra-bioskop.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" tvg-id="BathokGpc" tvg-name="Hbo" group-title="Movie",Hbo
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="hbo red" group-title="Movie",hbo red
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" tvg-id="BathokGpc" tvg-name="hbo signature" group-title="Movie",hbo signature
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" tvg-id="BathokGpc" tvg-name="hbo family" group-title="Movie",hbo family
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" tvg-id="BathokGpc" tvg-name="hbo hits" group-title="Movie",hbo hits
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" tvg-id="BathokGpc" tvg-name="Cinemax" group-title="Movie",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/images/channel/fox.png" tvg-id="BathokGpc" tvg-name="fox" group-title="Movie",fox
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/images/channel/fox_moives.png" tvg-id="BathokGpc" tvg-name="fox movies" group-title="Movie",fox movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
+#EXTINF:-1 tvg-logo="http://www.transvision.co.id/images/channel/fam_new.png" tvg-id="BathokGpc" tvg-name="fox action" group-title="Movie",fox action
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
+#EXTINF:-1 tvg-logo="http://www.transvision.co.id/images/channel/ffm_new.png" tvg-id="BathokGpc" tvg-name="fox family" group-title="Movie",fox family
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
+#EXTINF:-1 tvg-logo="http://www.transvision.co.id/images/channel/fox_crime.png" tvg-id="BathokGpc" tvg-name="fox crime" group-title="Movie",fox crime
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/images/channel/warner.png" tvg-id="BathokGpc" tvg-name="warner" group-title="Movie",warner
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" tvg-id="BathokGpc" tvg-name="Hits" group-title="Movie",Hits
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_imc_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="imc_USEE" group-title="Movie",imc_USEE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.useetv.com/proxy?playid=vL0WvJOR8ccC6tyU37utug&exp=1630130408&tvcode=imc&uid=2935687&utoken=
+https://cdngb196.useetv.com/dass/130/imc_dash/manifest_wuseetv.mpd?encp=LpAHbFR7jJBhJsvH0B8W3Q&uid=&expp=1630137608
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="bioskopindonesia_USEE" group-title="Movie",bioskopindonesia_USEE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.useetv.com/proxy?playid=mDaWskA2vy9ZmKMdGDg4Vg&exp=1630130410&tvcode=bioskopindonesia&uid=2935687&utoken=
+https://cdngb196.useetv.com/dass/130/bioskopindonesia_dash/manifest_wuseetv.mpd?encp=o5mA0GveWQTyLWQH9BAYUg&uid=&expp=1630137610
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_flik_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="flik_USEE" group-title="Movie",flik_USEE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.useetv.com/proxy?playid=8JmJ3zfGfdUggcNvXOmXQQ&exp=1630130413&tvcode=flik&uid=2935687&utoken=
+https://cdngb196.useetv.com/dass/133/flik_dash/manifest_wuseetv.mpd?encp=j_tkQGwioFYJpvKbyzE-NA&uid=&expp=1630137613
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_galaxy_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="galaxy_USEE" group-title="Movie",galaxy_USEE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.useetv.com/proxy?playid=LPR_vcsR-NTfX0gBBbobLQ&exp=1630130404&tvcode=galaxy&uid=2935687&utoken=
+https://cdngb196.useetv.com/dass/133/galaxy_dash/manifest_wuseetv.mpd?encp=j4gbuasjaiklMN1M_F2EyA&uid=&expp=1630137604
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_galaxypremium_small.png" tvg-id="BathokGpc" tvg-name="galaxypremium_USEE" group-title="Movie",galaxypremium_USEE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.useetv.com/proxy?playid=k9hoqG65QJh4t1qh4MKjEQ&exp=1630130407&tvcode=galaxypremium&uid=2935687&utoken=
+https://cdngb196.useetv.com/dass/133/galaxypremium_dash/manifest_wuseetv.mpd?encp=O3Sr6PfKW_BcsbuikKxB2A&uid=&expp=1630137607
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_thrill_small.png" tvg-id="BathokGpc" tvg-name="thrill_USEE" group-title="Movie",thrill_USEE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.useetv.com/proxy?playid=qA8nbLg1T3fH_mX1tD7sfg&exp=1630130406&tvcode=thrill&uid=2935687&utoken=
+https://cdngb196.useetv.com/dass/134/thrill_dash/manifest_wuseetv.mpd?encp=PZiRjfzm2tFfQnTVz1uALw&uid=&expp=1630137606
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvnmoviews_small.png" tvg-id="BathokGpc" tvg-name="tvnmovies" group-title="Movie",tvnmovies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/molafree.png" tvg-id="BathokGpc" tvg-name="Mola-TV-free" group-title="Movie",Mola-TV-free
+https://gpc.my.id/vidio/mola-tv-free.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_celestialmovie_small.png" tvg-id="BathokGpc" tvg-name="CelestialMovie" group-title="Movie",CelestialMovie
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_24.png" tvg-id="BathokGpc" tvg-name="Scm" group-title="Movie",Scm
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_24.png" tvg-id="BathokGpc" tvg-name="Scm Legend" group-title="Movie",Scm Legend
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" tvg-id="BathokGpc" tvg-name="Ccm" group-title="Movie",Ccm
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cinemaworld_small.png" tvg-id="BathokGpc" tvg-name="CinemaWorld" group-title="Movie",CinemaWorld
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
