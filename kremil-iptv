@@ -1,9 +1,5 @@
 #EXTM3U refresh="3600"
 #PLAYLIST:gpc.my.id
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Lokal" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
-http://gpc.my.id/kopi.ts?1
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Lokal" tvg-name="donasi https://saweria.co/bathokGPC",donasi https://saweria.co/bathokGPC
-http://gpc.my.id/kopi.ts?2
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_small.png?v=2.0.1.16" tvg-id="BathokGpc" tvg-name="useeinfo_USEE" group-title="Lokal",useeinfo_USEE
 https://gpc.my.id/usee/useeinfo.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useephoto_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="useephoto_USEE" group-title="Lokal",useephoto_USEE
