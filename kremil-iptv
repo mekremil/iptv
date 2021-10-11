@@ -201,11 +201,6 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
-#EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="Lifestyle & Fashion" group-title="HIBURAN",Lifestyle & Fashion
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
-
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_248.jpg" tvg-id="BathokGpc" tvg-name="TLC" group-title="HIBURAN",TLC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -220,9 +215,6 @@ http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 #EXTINF:-1 group-title="HIBURAN",GEM
 http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
-
-#EXTINF:-1 group-title="HIBURAN",K+
-http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
 
 #EXTINF:-1 group-title="HIBURAN",HITS
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
@@ -251,6 +243,8 @@ https://akamai.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="HIBURAN",Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
+#EXTINF:-1 tvg-id="Erz.Thedesignnetwork" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEuD_S0_20ac07FrdsaaFrG3YxWChqneRSUw&usqp=CAU" group-title="HIBURAN", The Design Network
+https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
 
 /*----MUSIC & GAYA---*/
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png" tvg-id="BathokGpc" tvg-name="Music TV" group-title="MUSIK & GAYA",Music TV
@@ -269,6 +263,11 @@ https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_mid
 
 #EXTINF:-1 group-title="MUSIK & GAYA",FR239:MTV Hits
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/28070
+
+#EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="Lifestyle & Fashion" group-title="HIBURAN",Lifestyle & Fashion
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 /*-------OLAHRAGA-------*/
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="bein1" group-title="OLAH RAGA",BEIN 1
@@ -345,7 +344,7 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISportHD.png" tvg-id="BathokGpc" tvg-name="TVRI-SPORT" group-title="OLAH RAGA",TVRI-SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/viasat-sport-1432658408.jpg" tvg-id="BathokGpc" tvg-name="Viasat-Sport" group-title="Sport",Viasat-Sport
+#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/viasat-sport-1432658408.jpg" tvg-id="BathokGpc" tvg-name="Viasat-Sport" group-title="OLAH RAGA",Viasat-Sport
 http://persik.tv/stream/3602/287583/10249.m3u8
 
 /*-------------BERITA-------------------*/
@@ -403,6 +402,11 @@ http://gooserace.xyz:80/roman/roman123/2599247.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b885dddf8d0e990d24c4a3fae05c4194.webp" group-title="BERITA",NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/trt.png" group-title="BERITA",TRT World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 /*--------TIPI LOKAL-----------*/
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antv_big1.png" tvg-id="BathokGpc" tvg-name="ANTV" group-title="TIPI LOKAL",ANTV
