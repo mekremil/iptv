@@ -64,6 +64,18 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
+#EXTINF:-1 group-title="PILEM",CINEMAWOLRD
+http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+
+#EXTINF:-1 group-title="PILEM",THRILL
+http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 group-title="PILEM",TVNMOVIES
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+
+#EXTINF:-1 group-title="PILEM",ZEEBIOSKOP
+http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
+
 /*------- BENPINTER ---------*/
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg" tvg-id="BathokGpc" tvg-name="BBC Earth" group-title="BENPINTER",BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -99,6 +111,12 @@ https://akamai.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#EXTINF:-1 group-title="BENPINTER",CGTN DOCUMENTARY
+http://210.210.155.35:80/session/6e87599c-2ef3-11eb-b6b9-b82a72d63267/qwr9ew/s/s20/01.m3u8
+
+#EXTINF:-1 group-title="BENPINTER",Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 /*------- BOCAH ---------*/
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png" tvg-id="BathokGpc" tvg-name="Animax" group-title="BOCAH",Animax
@@ -157,6 +175,9 @@ https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/spacetoon/images/2/2b/Spacetoon_logo.png/revision/latest/scale-to-width-down/220?cb=20200125135928" tvg-id="BathokGpc" tvg-name="spacetoon" group-title="BOCAH",spacetoon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
 
+#EXTINF:-1 group-title="BOCAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest/scale-to-width-down/554?cb=20201018231230",Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
 
 /*-----HIBURAN----*/
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_164.png" tvg-id="BathokGpc" tvg-name="One" group-title="HIBURAN",One
@@ -190,6 +211,40 @@ https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFash
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
+#EXTINF:-1 group-title="HIBURAN" tvg-logo="http://kamiselaluada.com/img/blueantentertainment.png",Blue Ant
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 group-title="HIBURAN",Blue Ant Extreme
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 group-title="HIBURAN",GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1 group-title="HIBURAN",K+
+http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1 group-title="HIBURAN",HITS
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+
+#EXTINF:-1 group-title="HIBURAN" tvg-logo="http://kamiselaluada.com/img/kplus.png",K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 group-title="HIBURAN",KIX
+http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+
+#EXTINF:-1 group-title="HIBURAN",OH!K TV
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+
+#EXTINF:-1 group-title="HIBURAN",ONE
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+
+#EXTINF:-1 group-title="HIBURAN",TVN
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+http://gpc.my.id/vidio/tvn.m3u8
+
+#EXTINF:-1 group-title="HIBURAN",Bisnet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 
 /*----MUSIC---*/
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png" tvg-id="BathokGpc" tvg-name="Music TV" group-title="MUSIK",Music TV
@@ -197,16 +252,37 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
+#EXTINF:-1 group-title="MUSIK",Music 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+
 /*-------OLAHRAGA-------*/
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="bein1" group-title="OLAH RAGA",bein1
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="bein1" group-title="OLAH RAGA",BEIN 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein2_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="bein2" group-title="OLAH RAGA",bein2
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein2_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="bein2" group-title="OLAH RAGA",BEIN 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+#EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",BEIN 3
+http://sos.moukrasa.xyz/live/6161655/index.m3u8
+
+#EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",BEIN 4
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+
+#EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",ASTRO ARENA
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+
+#EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",ESPN EXTRA HD+
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31147?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",ESPN HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31149?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",ESPN HD+
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31150?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="Dubai Racing" group-title="OLAH RAGA",Dubai Racing
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1500000.m3u8
@@ -327,3 +403,19 @@ https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangs
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
+/*-----------AGOMO-----------------*/
+#EXTINF:-1 group-title="AGOMO",ADI_TV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="AGOMO",Al Quran Al Kareem TV
+http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-1 group-title="AGOMO",AL Sunnah Nabawi TV
+http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-1 group-title="AGOMO",Iqra TV
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+
+#EXTINF:-1 group-title="AGOMO",Makkah TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
