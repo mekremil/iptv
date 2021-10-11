@@ -118,6 +118,9 @@ http://210.210.155.35:80/session/6e87599c-2ef3-11eb-b6b9-b82a72d63267/qwr9ew/s/s
 #EXTINF:-1 group-title="BENPINTER",Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iJldO7U.jpg" tvg-url="" group-title="BENPINTER",NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
 /*------- BOCAH ---------*/
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png" tvg-id="BathokGpc" tvg-name="Animax" group-title="BOCAH",Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -178,18 +181,15 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="BOCAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest/scale-to-width-down/554?cb=20201018231230",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/2f/6a/2b/2f6a2b15f5001569f697bb3b9fdfac8a.jpg" group-title="BOCAH", PBS Kids
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331191231
+
 
 /*-----HIBURAN----*/
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_164.png" tvg-id="BathokGpc" tvg-name="One" group-title="HIBURAN",One
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_fashiontv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="fashiontv-original" group-title="HIBURAN",fashiontv-original
-https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_fashiontv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="fashiontv-midnight" group-title="HIBURAN",fashiontv-midnight
-https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b1400000.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_hgtv_small.png" tvg-id="BathokGpc" tvg-name="hgtv" group-title="HIBURAN",hgtv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -239,21 +239,36 @@ http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 group-title="HIBURAN",ONE
 http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 
-#EXTINF:-1 group-title="HIBURAN",TVN
+#EXTINF:-1 tvg-id="395" tvg-name="tvN HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="HIBURAN",tvN HD (CH395) 
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
-http://gpc.my.id/vidio/tvn.m3u8
 
 #EXTINF:-1 group-title="HIBURAN",Bisnet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 
-/*----MUSIC---*/
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png" tvg-id="BathokGpc" tvg-name="Music TV" group-title="MUSIK",Music TV
+#EXTINF:-1 group-title="HIBURAN" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/asian-food-network.png", Asian Food Network V+
+https://akamai.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="HIBURAN",Comedy Central
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+
+/*----MUSIC & GAYA---*/
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png" tvg-id="BathokGpc" tvg-name="Music TV" group-title="MUSIK & GAYA",Music TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 group-title="MUSIK",Music 24
+#EXTINF:-1 group-title="MUSIK & GAYA",Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_fashiontv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="fashiontv-original" group-title="MUSIK & GAYA",fashiontv-original
+https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_fashiontv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="fashiontv-midnight" group-title="MUSIK & GAYA",fashiontv-midnight
+https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b1400000.m3u8
+
+#EXTINF:-1 group-title="MUSIK & GAYA",FR239:MTV Hits
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/28070
 
 /*-------OLAHRAGA-------*/
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="bein1" group-title="OLAH RAGA",BEIN 1
@@ -271,6 +286,28 @@ http://sos.moukrasa.xyz/live/6161655/index.m3u8
 
 #EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",BEIN 4
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLAH RAGA", BEIN 5
+http://sos.moukrasa.xyz/live/69854211/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLAH RAGA", BEIN 6 
+http://sos.moukrasa.xyz/live/645587700/index.m3u8?
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLAH RAGA", BEIN 7 
+http://sos.moukrasa.xyz/live/9787488847/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLAH RAGA", BEIN 8 
+http://sos.moukrasa.xyz/live/610303030/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLAH RAGA", BEIN 9 
+http://sos.moukrasa.xyz/live/1515000000/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLAH RAGA", BEIN 10 
+http://sos.moukrasa.xyz/live/791001144/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLAH RAGA", BEIN 11 
+http://sos.moukrasa.xyz/live/918454578/index.m3u8
+
 
 #EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",ASTRO ARENA
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
@@ -328,6 +365,45 @@ https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
 
+#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.postimg.cc/y6MNS3Tg/ABC.png", ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 group-title="BERITA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Aljazeera
+https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+
+#EXTINF:-1 tvg-id="517" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4kTvbHBoPmYS_VLZJhwG0pm1Ov63pFpghPZTcNzPrAaMtteK&s" group-title="BERITA",BLOOMBERG
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png" group-title="BERITA",CBN News
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnbcid_small.png"  tvg-name="CNBC-Indonesia" group-title="BERITA",CNBC-Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.cnbctv18.com/assets/images/cnbc-logo.png?v=1.png" group-title="BERITA",CNBC 18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/cnbcasia.png" group-title="BERITA",CNBC Asia
+https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+
+#EXTINF:-1 tvg-id="511" tvg-name="CNN HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png" group-title="BERITA",CNN HD (511)
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.lokernas.id/wp-content/uploads/2019/07/645x430-seni-cnn-indonesia-menggelinding-di-layar-kaca-1506136-58cc17797eafbd42350a7648.jpg?w=640&ssl=1" group-title="BERITA",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2021/02/Fox-News-logo.jpg" group-title="BERITA",FOX NEWS CHANNEL
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="BERITA", FRANCE 24
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188016
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: BBC News HD" tvg-logo="" group-title="BERITA",MY: BBC News HD
+http://gooserace.xyz:80/roman/roman123/2599247.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b885dddf8d0e990d24c4a3fae05c4194.webp" group-title="BERITA",NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
 /*--------TIPI LOKAL-----------*/
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antv_big1.png" tvg-id="BathokGpc" tvg-name="ANTV" group-title="TIPI LOKAL",ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -349,7 +425,7 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://conversant.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="Kompas-Tv" group-title="News",Kompas-Tv
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="Kompas-Tv" group-title="BERITA",Kompas-Tv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
