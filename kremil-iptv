@@ -312,7 +312,7 @@ http://sos.moukrasa.xyz/live/918454578/index.m3u8
 #EXTINF:-1 group-title="OLAH RAGA",BEIN 12
 http://dud.mawanroud.xyz/live/6151278887/index.m3u8
 
-#EXTINF:-1 ggroup-title="OLAH RAGA",BEIN 13
+#EXTINF:-1 group-title="OLAH RAGA",BEIN 13
 https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
 
 #EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",ASTRO ARENA
