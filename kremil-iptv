@@ -238,6 +238,8 @@ http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/asian-food-network.png", Asian Food Network V+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://akamai.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="HIBURAN",Comedy Central
@@ -307,6 +309,11 @@ http://sos.moukrasa.xyz/live/791001144/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLAH RAGA", BEIN 11 
 http://sos.moukrasa.xyz/live/918454578/index.m3u8
 
+#EXTINF:-1 group-title="OLAH RAGA",BEIN 12
+http://dud.mawanroud.xyz/live/6151278887/index.m3u8
+
+#EXTINF:-1 ggroup-title="OLAH RAGA",BEIN 13
+https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
 
 #EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",ASTRO ARENA
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
