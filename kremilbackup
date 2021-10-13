@@ -1,3 +1,7 @@
+#EXTM3U refresh="3600"
+#PLAYLIST:kremiltipi
+///// FOX & HBO /////
+
 ///// FOX & HBO /////
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
