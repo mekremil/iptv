@@ -7,21 +7,6 @@
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/animal-planet4122.jpg" tvg-id="BathokGpc" tvg-name="Animal Planet" group-title="BENPINTER",Animal Planet
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_history_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="history" group-title="BENPINTER",history
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-
-#EXTINF:-1 group-title="BENPINTER" tvg-logo="https://upload.wikimedia.org/wikipedia/jv/thumb/0/09/Discovery_Channel.jpg/800px-Discovery_Channel.jpg", Discovery
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-https://akamai.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
-
 #EXTINF:-1 group-title="BENPINTER" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png", Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -32,10 +17,31 @@ https://akamai.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://akamai.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_history_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="history" group-title="BENPINTER",history
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/logo-ci.jpg" tvg-id="BathokGpc" tvg-name="Crime Investigation" group-title="BENPINTER",Crime Investigation
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#EXTINF:-1 group-title="BENPINTER" tvg-logo="https://upload.wikimedia.org/wikipedia/jv/thumb/0/09/Discovery_Channel.jpg/800px-Discovery_Channel.jpg", Discovery
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://akamai.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="BENPINTER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="BENPINTER",Discovery Asia
+http://gooserace.xyz:80/roman/roman123/2599267.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BENPINTER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="BENPINTER",Discovery Science HD
+http://gooserace.xyz:80/roman/roman123/2599269.ts
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/animal-planet4122.jpg" tvg-id="BathokGpc" tvg-name="Animal Planet" group-title="BENPINTER",Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -44,12 +50,6 @@ https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #EXTINF:-1 group-title="BENPINTER" tvg-logo="https://i.postimg.cc/mrmRXVPP/BAdv.png",Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BENPINTER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="BENPINTER",Discovery Asia
-http://gooserace.xyz:80/roman/roman123/2599267.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="BENPINTER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="BENPINTER",Discovery Science HD
-http://gooserace.xyz:80/roman/roman123/2599269.ts
 
 #EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iJldO7U.jpg" tvg-url="" group-title="BENPINTER",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
@@ -83,11 +83,6 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" tvg-id="BathokGpc" tvg-name="Hits" group-title="PILEM",Hits
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvnmoviews_small.png" tvg-id="BathokGpc" tvg-name="tvnmovies" group-title="PILEM",tvnmovies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -108,6 +103,15 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg" group-title="PILEM",KIX
+http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" tvg-id="BathokGpc" tvg-name="Hits" group-title="PILEM",Hits
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cinemaworld_small.png" tvg-id="BathokGpc" tvg-name="CinemaWorld" group-title="PILEM",CinemaWorld
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -121,22 +125,15 @@ https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="PILEM",THRILL
 http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
 
-#EXTINF:-1 group-title="PILEM" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_bioskop.png",ZEEBIOSKOP
-http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_160.jpg" group-title="PILEM",HITS
 http://210.210.155.35/dr9445/h/h37/01.m3u8
 
 #EXTINF:-1  group-title="PILEM" tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg",MY CINEMA
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg" group-title="PILEM",KIX
-http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+#EXTINF:-1 group-title="PILEM" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_bioskop.png",ZEEBIOSKOP
+http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_164.png" tvg-id="BathokGpc" tvg-name="One" group-title="PILEM",One
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 /*-----BENSENENG----*/
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_hgtv_small.png" tvg-id="BathokGpc" tvg-name="hgtv" group-title="BENSENENG",hgtv
@@ -144,36 +141,13 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_96.png" tvg-id="BathokGpc" tvg-name="ie" group-title="BENSENENG",ie
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_248.jpg" tvg-id="BathokGpc" tvg-name="TLC" group-title="BENSENENG",TLC
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="BENSENENG",Blue Ant
-http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="BENSENENG" ,Blue Ant Extreme
-http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ohk-tv.com/img/logo.png" group-title="BENSENENG",OH!K TV
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="395" tvg-name="tvN HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="BENSENENG",tvN HD (CH395) 
-http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
-
 #EXTINF:-1 group-title="BENSENENG" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asian-food-network-sg.png", Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://akamai.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8cS2bKy/Comedy-Central.png" group-title="BENSENENG",Comedy Central
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="" tvg-name="MY: Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="BENSENENG", Food Network
+http://gooserace.xyz:80/roman/roman123/2599278.ts
 
 #EXTINF:-1 tvg-id="Erz.Thedesignnetwork" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEuD_S0_20ac07FrdsaaFrG3YxWChqneRSUw&usqp=CAU" group-title="BENSENENG", The Design Network
 https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
@@ -181,11 +155,22 @@ https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIBURAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/451_144.png" group-title="BENSENENG",BBC Lifestyle
 http://gooserace.xyz:80/roman/roman123/2599246.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="HIBURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/220px-2018_Travel_Channel_logo.svg.png" group-title="BENSENENG", Travel Channel
-http://gooserace.xyz:80/roman/roman123/2599354.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8cS2bKy/Comedy-Central.png" group-title="BENSENENG",Comedy Central
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-id="" tvg-name="MY: Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="BENSENENG", Food Network
-http://gooserace.xyz:80/roman/roman123/2599278.ts
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_248.jpg" tvg-id="BathokGpc" tvg-name="TLC" group-title="BENSENENG",TLC
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="HIBURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/220px-2018_Travel_Channel_logo.svg.png" group-title="BENSENENG", Travel Channel
+https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
+
+#EXTINF:-1 tvg-id="395" tvg-name="tvN HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="BENSENENG",tvN HD (CH395) 
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ohk-tv.com/img/logo.png" group-title="BENSENENG",OH!K TV
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
 #EXTINF:-1 group-title="BENSENENG" tvg-logo="http://www.dens.tv/images/channel-logo/93.jpg",AXN
 http://210.210.155.35/dr9445/h/h141/01.m3u8
@@ -196,6 +181,21 @@ http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtkOL0.jpg" group-title="BENSENENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg",K+
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_164.png" tvg-id="BathokGpc" tvg-name="One" group-title="BENSENENG",One
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_96.png" tvg-id="BathokGpc" tvg-name="ie" group-title="BENSENENG",ie
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="BENSENENG",Blue Ant
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="BENSENENG" ,Blue Ant Extreme
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 
 /*-------BENSEHAT-------*/
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="bein1" group-title="BENSEHAT",BEIN 1
