@@ -134,6 +134,12 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1  group-title="PILEM" tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg",MY CINEMA
 http://210.210.155.35/session/55528460-d1c8-11eb-8209-c81f66f89318/uq2663/h/h90/S4/mnf.m3u8
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/200px-Paramount_Network.svg.png" tvg-id="" tvg-name="Paramount Channel" tvg-logo="" group-title="PILEM", Paramount Channel
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37462
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_cinema_europe_kr.png" group-title="PILEM", My Cinema Europe
+http://210.210.155.35/uq2663/h/h18/01.m3u8
+
 #EXTINF:-1 group-title="PILEM" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_bioskop.png",ZEEBIOSKOP
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -160,8 +166,8 @@ https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIBURAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/451_144.png" group-title="BENSENENG",BBC Lifestyle
 http://gooserace.xyz:80/roman/roman123/2599246.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8cS2bKy/Comedy-Central.png" group-title="BENSENENG",Comedy Central
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="BENSENENG",Comedy Central
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_248.jpg" tvg-id="BathokGpc" tvg-name="TLC" group-title="BENSENENG",TLC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
