@@ -402,7 +402,7 @@ https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/150px-Outdoor_Channel_logo_2017.svg.png" group-title="BENDOLAN", OUTDOOR CHANNEL
 https://feed.play.mv/live/1009/E6O26jTzFh/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HIBURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/220px-2018_Travel_Channel_logo.svg.png" group-title="BENDOLAN", Travel Channel
+#EXTINF:-1 tvg-id="" tvg-name="HIBURAN" tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/TRVL_Logo%20(White%20BG)%20(2).png" group-title="BENDOLAN", Travel Channel
 https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
 
 #EXTINF:-1 group-title="BENDOLAN" tvg-logo="https://i.postimg.cc/mrmRXVPP/BAdv.png",Bisnet Adventure 4K
