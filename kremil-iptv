@@ -433,112 +433,112 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 
 
-/*-------------BENWARTO-------------------*/
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7k46tke37w6oy3r/cnbc.png?dl=1" group-title="BENWARTO",CNBC Indonesia
+/*-------------BENRAKUDET-------------------*/
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7k46tke37w6oy3r/cnbc.png?dl=1" group-title="BENRAKUDET",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/dy70ahe3xbtp6f6/cnn.png?dl=1" group-title="BENWARTO",CNN Indonesia
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/dy70ahe3xbtp6f6/cnn.png?dl=1" group-title="BENRAKUDET",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/73lhnl2w6q4p0io/kompastv.png?dl=1" group-title="BENWARTO",Kompas Tv
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/73lhnl2w6q4p0io/kompastv.png?dl=1" group-title="BENRAKUDET",Kompas Tv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xxzbiw62np1tteo/metrotv.jpg?dl=1" group-title="BENWARTO",Metro TV
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xxzbiw62np1tteo/metrotv.jpg?dl=1" group-title="BENRAKUDET",Metro TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/o0tq45iwi02m5d3/bersatu.png?dl=1" group-title="BENWARTO", Berita Satu
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/o0tq45iwi02m5d3/bersatu.png?dl=1" group-title="BENRAKUDET", Berita Satu
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zzyl6v31li18qrz/mncnews.png?dl=1" group-title="BENWARTO",MNC NEWS
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zzyl6v31li18qrz/mncnews.png?dl=1" group-title="BENRAKUDET",MNC NEWS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/e38228z4jh8ttq3/IDX.png?dl=1" group-title="BENWARTO", IDX
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/e38228z4jh8ttq3/IDX.png?dl=1" group-title="BENRAKUDET", IDX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://stream-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cqqv3ao5z4i238s/abcaus.png?dl=1" group-title="BENWARTO", ABC AUSTRALIA
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cqqv3ao5z4i238s/abcaus.png?dl=1" group-title="BENRAKUDET", ABC AUSTRALIA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1ylomgbaohbrbqc/NHK.png?dl=1" group-title="BENWARTO", NHK World Japan
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1ylomgbaohbrbqc/NHK.png?dl=1" group-title="BENRAKUDET", NHK World Japan
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
-#EXTINF:-1 tvg-logo ="https://www.dropbox.com/s/ov7laf1z52rzvub/CNA.jpg?dl=1" group-title="BENWARTO", Channel News Asia
+#EXTINF:-1 tvg-logo ="https://www.dropbox.com/s/ov7laf1z52rzvub/CNA.jpg?dl=1" group-title="BENRAKUDET", Channel News Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zkbtpvutzzsrbtr/aljazeera.png?dl=1" group-title="BENWARTO", Aljazeera
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zkbtpvutzzsrbtr/aljazeera.png?dl=1" group-title="BENRAKUDET", Aljazeera
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0j8m4753dm3myxl/BBCworld.png?dl=1" group-title="BENWARTO", BBC World News
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0j8m4753dm3myxl/BBCworld.png?dl=1" group-title="BENRAKUDET", BBC World News
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/dy70ahe3xbtp6f6/cnn.png?dl=1" group-title="BENWARTO", CNN International
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/dy70ahe3xbtp6f6/cnn.png?dl=1" group-title="BENRAKUDET", CNN International
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/upbe3zmfd4ulkkr/euronews.jpg?dl=1" group-title="BENWARTO", EURO NEWS
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/upbe3zmfd4ulkkr/euronews.jpg?dl=1" group-title="BENRAKUDET", EURO NEWS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/jbcfcjxklpagjaf/foxnews.png?dl=1" group-title="BENWARTO", FOX NEWS
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/jbcfcjxklpagjaf/foxnews.png?dl=1" group-title="BENRAKUDET", FOX NEWS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7k46tke37w6oy3r/cnbc.png?dl=1" group-title="BENWARTO", CNBC World
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7k46tke37w6oy3r/cnbc.png?dl=1" group-title="BENRAKUDET", CNBC World
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/t8wxzfbjycy8m81/bloomberg.png?dl=1" group-title="BENWARTO", Bloomberg
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/t8wxzfbjycy8m81/bloomberg.png?dl=1" group-title="BENRAKUDET", Bloomberg
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qugxz3m30gtjp57/france.png?dl=1" group-title="BENWARTO", FRANCE 24
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qugxz3m30gtjp57/france.png?dl=1" group-title="BENRAKUDET", FRANCE 24
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1ylomgbaohbrbqc/NHK.png?dl=1" group-title="BENWARTO", NHK PREMIUM
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1ylomgbaohbrbqc/NHK.png?dl=1" group-title="BENRAKUDET", NHK PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fnsh3orjb4xhw7d/dw.jpg?dl=1" group-title="BENWARTO", DW 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fnsh3orjb4xhw7d/dw.jpg?dl=1" group-title="BENRAKUDET", DW 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/l879c6ykn5f0nog/trt.jpg?dl=1" group-title="BENWARTO",TRT World
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/l879c6ykn5f0nog/trt.jpg?dl=1" group-title="BENRAKUDET",TRT World
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/c801xix73sjjslo/rt.png?dl=1" group-title="BENWARTO",Russia Today
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/c801xix73sjjslo/rt.png?dl=1" group-title="BENRAKUDET",Russia Today
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/36765
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vwk5siv84k5vbsk/CGTN.png?dl=1" group-title="BENWARTO", CGTN
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vwk5siv84k5vbsk/CGTN.png?dl=1" group-title="BENRAKUDET", CGTN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
@@ -676,12 +676,12 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://conversant.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/73lhnl2w6q4p0io/kompastv.png?dl=1" group-title="BENWARTO",Kompas Tv
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/73lhnl2w6q4p0io/kompastv.png?dl=1" group-title="BENLOKAL",Kompas Tv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xxzbiw62np1tteo/metrotv.jpg?dl=1" group-title="BENWARTO",Metro TV
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xxzbiw62np1tteo/metrotv.jpg?dl=1" group-title="BENLOKAL",Metro TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
