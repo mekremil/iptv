@@ -10,12 +10,12 @@ https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #EXTINF:-1 group-title="BENPINTER" tvg-logo="https://www.dropbox.com/s/f4p9fv6cit8nsy0/natgeowild.jpg?dl=1", Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://akamai.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #EXTINF:-1 group-title="BENPINTER" tvg-logo="https://www.dropbox.com/s/c7u8dw3pmlal3qx/natgeo.jpg?dl=1", National Geographic 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://akamai.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ymkl6090ksghaob/history.jpg?dl=1" group-title="BENPINTER",History
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -30,7 +30,7 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvest
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/pxe1eugdluzio6q/Discovery_Channel.jpg?dl=1" group-title="BENPINTER" , Discovery
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://akamai.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0nyzh1l3whahvrj/Discovery_asia.jpg?dl=1" group-title="BENPINTER",Discovery Asia
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37391
@@ -164,7 +164,7 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lwddyazst5dr6tq/asianfood.png?dl=1" group-title="BENSENENG", Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://akamai.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/if6u4uv0jre37ii/food%20networkf.png?dl=1" group-title="BENSENENG", Food Network
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37411
