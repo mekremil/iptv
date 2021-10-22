@@ -256,7 +256,7 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 http://dud.mawanroud.xyz/live/6151278887/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 4
-https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 5
 https://bal.varcdn1.ru/lb/m2/index.m3u8
@@ -268,13 +268,7 @@ http://bal.varcdn1.ru/lb/b5/index.m3u8
 https://bal.varcdn1.ru/lb/match/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 8
-https://google-me.cdn.booyah.live/hls/113138/85352637.m3u8?ZAnA_IPTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 9
-https://google-me.cdn.booyah.live/hls/113130/85354950.m3u8?ZAnA_IPTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 10
-https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8?ZAnA_IPTV.m3u8
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6748
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT", BEIN PREMIUM 1
 https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334687
@@ -334,13 +328,25 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31150?checkedby:iptvcat.c
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/51
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cqks31rebqcskza/foxsport.png?dl=1" group-title="BENSEHAT",FOX Sport 2
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/102
+https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334746
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cqks31rebqcskza/foxsport.png?dl=1" group-title="BENSEHAT",Fox Sport 3
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/101
+https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334747
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cqks31rebqcskza/foxsport.png?dl=1" group-title="BENSEHAT",Fox Sport 4
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334748
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cqks31rebqcskza/foxsport.png?dl=1" group-title="BENSEHAT",Fox Sport 5
+https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334749
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cqks31rebqcskza/foxsport.png?dl=1" group-title="BENSEHAT",Fox Sport 6
+https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334750
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cqks31rebqcskza/foxsport.png?dl=1" group-title="BENSEHAT",Fox Sport 7
+https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334751
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cqks31rebqcskza/foxsport.png?dl=1" group-title="BENSEHAT",Fox Sport 8
+https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334752
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/jiea2uiyv4edq3e/golf.png?dl=1" group-title="BENSEHAT",Golf Channel
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/561
@@ -382,7 +388,7 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/29594
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/whmqvjn8nhfpj6o/prambors.png?dl=1" group-title="BENJOGET",Prambors TV
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1157
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2elmgibjps07z8d/maleo.jpg?dl=1" group-title="BENJOGET", Maleo Channel 
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
