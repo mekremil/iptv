@@ -253,43 +253,69 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 3
-http://dud.mawanroud.xyz/live/6151278887/index.m3u8
+#EXTVLCOPT:http-user-agent=zmak0a0alq2w3r0vmg33d0uy
+http://chouflive.ddns.net:8080/E0kG5sMNpm/gliCIZ7QDa/46
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 4
-https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
+#EXTVLCOPT:http-user-agent=zmak0a0alq2w3r0vmg33d0uy
+http://chouflive.ddns.net:8080/E0kG5sMNpm/gliCIZ7QDa/47
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 5
-https://bal.varcdn1.ru/lb/m2/index.m3u8
+#EXTVLCOPT:http-user-agent=zmak0a0alq2w3r0vmg33d0uy
+http://chouflive.ddns.net:8080/E0kG5sMNpm/gliCIZ7QDa/48
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 6
-http://bal.varcdn1.ru/lb/b5/index.m3u8
+#EXTVLCOPT:http-user-agent=zmak0a0alq2w3r0vmg33d0uy
+http://chouflive.ddns.net:8080/E0kG5sMNpm/gliCIZ7QDa/56
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 7
-https://bal.varcdn1.ru/lb/match/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 8
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6748
+#EXTVLCOPT:http-user-agent=zmak0a0alq2w3r0vmg33d0uy
+http://chouflive.ddns.net:8080/E0kG5sMNpm/gliCIZ7QDa/57
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT", BEIN PREMIUM 1
-https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334687
+#EXTVLCOPT:http-user-agent=zmak0a0alq2w3r0vmg33d0uy
+http://chouflive.ddns.net:8080/E0kG5sMNpm/gliCIZ7QDa/58
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT", BEIN PREMIUM 2
-https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334688
+#EXTVLCOPT:http-user-agent=zmak0a0alq2w3r0vmg33d0uy
+http://chouflive.ddns.net:8080/E0kG5sMNpm/gliCIZ7QDa/3409
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT", BEIN PREMIUM 3
-https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334689
+#EXTVLCOPT:http-user-agent=zmak0a0alq2w3r0vmg33d0uy
+http://chouflive.ddns.net:8080/E0kG5sMNpm/gliCIZ7QDa/3410
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT", BEIN MAX
-https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334697
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT", BEIN PREMIUM 4
+http://sawaiptv.vip:80/sawaiphone/iphone2021/1368
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zzsyc1kxp2j7ujq/BTSPORT.png?dl=1" group-title="BENSEHAT", BT Sport
-http://master2c.uefa-tv.com:80/live/3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT", BEIN PREMIUM 5
+http://sawaiptv.vip:80/sawaiphone/iphone2021/1367
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zzsyc1kxp2j7ujq/BTSPORT.png?dl=1" group-title="BENSEHAT", BT Sport 2
-http://master2a.uefa-tv.com:80/live/8/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT", BEIN PREMIUM 6
+http://sawaiptv.vip:80/sawaiphone/iphone2021/1366
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zzsyc1kxp2j7ujq/BTSPORT.png?dl=1" group-title="BENSEHAT", BT Sport 3
-http://master2a.uefa-tv.com:80/live/2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT", BEIN PREMIUM 7
+http://sawaiptv.vip:80/sawaiphone/iphone2021/1365
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT", BEIN PREMIUM 8
+http://sawaiptv.vip:80/sawaiphone/iphone2021/1364
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT", BEIN PREMIUM 9
+http://sawaiptv.vip:80/sawaiphone/iphone2021/1363
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT", BEIN PREMIUM 10
+http://sawaiptv.vip:80/sawaiphone/iphone2021/1361
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT", BEIN PREMIUM 11
+http://sawaiptv.vip:80/sawaiphone/iphone2021/1360
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT", BEIN PREMIUM 12
+http://sawaiptv.vip:80/sawaiphone/iphone2021/1359
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT", BEIN PREMIUM 13
+http://sawaiptv.vip:80/sawaiphone/iphone2021/1358
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT", BEIN PREMIUM 14
+http://sawaiptv.vip:80/sawaiphone/iphone2021/1357
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9trqnyrxrnniw0e/useeport.png?dl=1" group-title="BENSEHAT", Usee Sports 1
 https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334856
