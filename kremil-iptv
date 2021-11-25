@@ -242,60 +242,16 @@ http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 
 /*-------BENSEHAT-------*/
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 1 MNC
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 2 MNC
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 1 Premium 
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80034.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 2 Premium 
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80033.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 3 Premium 
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80032.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 1  
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80031.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 2  
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80030.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 3  
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80029.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 4  
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80028.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 5  
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80027.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 6  
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80026.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 7  
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80025.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 1 Eng 
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80024.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 2 Eng 
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80023.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 3 Eng 
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80038.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 1 Fr 
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80037.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 2 Fr 
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80036.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9trqnyrxrnniw0e/useeport.png?dl=1" group-title="BENSEHAT", Usee Sports 1
 https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334856
@@ -321,12 +277,6 @@ https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334678
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/jzu1j35eoauxugs/astrosuper.png?dl=1" group-title="BENSEHAT", Astro Super Sport 5
 https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334679
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3223z2ii502mcmt/espn.jpg?dl=1" group-title="BENSEHAT",ONE BRAZIL 1
-http://vipeiptv.com:25461/live/camila2020/camila2020/925565.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3223z2ii502mcmt/espn.jpg?dl=1" group-title="BENSEHAT",ONE BRAZIL 2
-http://vipeiptv.com:25461/live/camila2020/camila2020/925576.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3223z2ii502mcmt/espn.jpg?dl=1" group-title="BENSEHAT",ESPN EXTRA HD+
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31147?checkedby:iptvcat.com
 
@@ -335,9 +285,6 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31149?checkedby:iptvcat.c
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3223z2ii502mcmt/espn.jpg?dl=1" group-title="BENSEHAT",ESPN 2
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31150?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cqks31rebqcskza/foxsport.png?dl=1" group-title="BENSEHAT",FOX BRAZIL
-https://s1.cdnfbs.xyz/hls/df6206a85a959857407d534df2e7e7f4/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cqks31rebqcskza/foxsport.png?dl=1" group-title="BENSEHAT",FOX Sport 1
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/51
@@ -381,6 +328,11 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/okit2fwcg7q7nkr/mncsport.jpg?dl=1" group-title="BENSEHAT",Mnc Sport 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/MNC-Sports2/sa_dash_vmx/MNC-Sports2.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/axrh7r6sj6nm4mg/redbull.png?dl=1" group-title="BENSEHAT",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
