@@ -239,7 +239,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/reamgue1oysvyjm/bluex.png?dl=1" group-title="BENSENENG" ,Blue Ant Extreme
-http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 
 /*-------BENSEHAT-------*/
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 1
