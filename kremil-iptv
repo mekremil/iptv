@@ -138,17 +138,23 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1rho9026qt6udud/bioskoop%20indonesia.png?dl=1" group-title="BENONTON" ,Bioskop Indonesia
 http://usee.galleryiptv.my.id/USEE-MPD/chunklist.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/d00kfhaypu8qilj/mycinema.jpg?dl=1" group-title="BENONTON" ,My Cinema
-http://210.210.155.35/session/55528460-d1c8-11eb-8209-c81f66f89318/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/pus1ptpq71t69wn/MFC.png?dl=1" group-title="BENONTON" ,My Cinema Asia
+http://usee.galleryiptv.my.id/USEE-MPD/chunklist.m3u8?id=mycinemaasia&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/sumrpiarehga588/galaxy-premium.jpg?dl=1" group-title="BENONTON",Galaxy Premium
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/29603
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/pus1ptpq71t69wn/MFC.png?dl=1" group-title="BENONTON" ,My Family Channel
+http://usee.galleryiptv.my.id/USEE-MPD/chunklist.m3u8?id=myfamily&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/d00kfhaypu8qilj/mycinema.jpg?dl=1" group-title="BENONTON" ,My Cinema
+http://usee.galleryiptv.my.id/USEE-MPD/chunklist.m3u8?id=mycinema&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iloumx1e6e5m5he/MCE.jpg?dl=1" group-title="BENONTON", My Cinema Europe
+http://210.210.155.35/uq2663/h/h18/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/a3aekjrtidp2m1e/paramount.jpg?dl=1" group-title="BENONTON", Paramount Channel
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37462
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iloumx1e6e5m5he/MCE.jpg?dl=1" group-title="BENONTON", My Cinema Europe
-http://210.210.155.35/uq2663/h/h18/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/sumrpiarehga588/galaxy-premium.jpg?dl=1" group-title="BENONTON",Galaxy Premium
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/29603
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/r7vu4buvsa92qkh/zee.jpg?dl=1" group-title="BENONTON",ZEEBIOSKOP
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
