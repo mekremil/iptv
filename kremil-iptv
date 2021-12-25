@@ -536,9 +536,7 @@ https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/685lel1jmlv3n6a/nickjr.png?dl=1" group-title="BENBOCAH",Nickjr
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
+https://usee.galleryiptv.my.id/GaUsah_Di_Share_Tokennya/chunklist.m3u8?id=nickjr&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/bx9asp64cjwim36/disney.png?dl=1" group-title="BENBOCAH",DISNEY CHANNEL HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37402
