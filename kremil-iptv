@@ -173,22 +173,10 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/if6u4uv0jre37ii/food%20networkf.png?dl=1" group-title="BENSENENG", Food Network
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37411
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8029nxrqhzlcqw4/designetwork.png?dl=1" group-title="BENSENENG", The Design Network
-https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zbgbyuxe6iavzzf/BBClife.png?dl=1" group-title="BENSENENG",BBC Lifestyle
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/36766
-
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qbf3qbgr92f79s1/lifetime.jpg?dl=1" group-title="BENSENENG",LifeTime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ficjfcvp9cm3m7z/comedycentral.png?dl=1" group-title="BENSENENG",Comedy Central
-https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ae25mlor5xbgk98/TVN.png?dl=1" group-title="BENSENENG",TVN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -200,22 +188,10 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1s9v88k9h8rsxbe/oh%21k.png?dl=1" group-title="BENSENENG",OH!K TV
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/6mlqy9d3p928qml/wakuwaku.png?dl=1" group-title="BENSENENG",Wakuwaku
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/717
-
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/khi8brp49ne3dw3/axn.jpg?dl=1" group-title="BENSENENG",AXN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9aeof7rpa54ccog/gem.jpg?dl=1" group-title="BENSENENG",GEM
-http://210.210.155.35:80/uq2663/h/h19/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wfaccx6ilr0ql1j/K%2B.jpg?dl=1" group-title="BENSENENG",K+
-http://210.210.155.35/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9hnfucywj1r0tye/KIX.jpg?dl=1" group-title="BENSENENG",KIX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -232,8 +208,36 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/if6u4uv0jre37ii/food%20networkf.png?dl=1" group-title="BENSENENG", Eat & Go
+http://go.delivery.on-site.se.ke/iduntv/usitipi/chunklist.m3u8?id=eatgo&bandwidth=default&sync=0
+
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/bfnrgvmied9c2qb/blueant.png?dl=1" group-title="BENSENENG",Blue Ant
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/reamgue1oysvyjm/bluex.png?dl=1" group-title="BENSENENG" ,Blue Ant Extreme
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8029nxrqhzlcqw4/designetwork.png?dl=1" group-title="BENSENENG", The Design Network
+https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zbgbyuxe6iavzzf/BBClife.png?dl=1" group-title="BENSENENG",BBC Lifestyle
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/36766
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9aeof7rpa54ccog/gem.jpg?dl=1" group-title="BENSENENG",GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wfaccx6ilr0ql1j/K%2B.jpg?dl=1" group-title="BENSENENG",K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1s9v88k9h8rsxbe/oh%21k.png?dl=1" group-title="BENSENENG",OH!K TV
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/6mlqy9d3p928qml/wakuwaku.png?dl=1" group-title="BENSENENG",Wakuwaku
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/717
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/6vob7a68dgujbi1/kungfu.png?dl=1" group-title="BENSENENG",Kungfu TV
-https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=kungfutv&bandwidth=default&sync=0
+http://go.delivery.on-site.se.ke/iduntv/usitipi/chunklist.m3u8?id=kungfutv&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vrrx8g055fdxulm/galaxy.png?dl=1" group-title="BENSENENG",Galaxy
 https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=galaxy&bandwidth=default&sync=0
@@ -241,12 +245,8 @@ https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=galaxy&bandwidth=de
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rweuaru7k2nd5wv/useeprime.png?dl=1" group-title="BENSENENG", UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8 
 
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/bfnrgvmied9c2qb/blueant.png?dl=1" group-title="BENSENENG",Blue Ant
-https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=blueant&bandwidth=default&sync=0
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/reamgue1oysvyjm/bluex.png?dl=1" group-title="BENSENENG" ,Blue Ant Extreme
-https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=blueantextreme&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ficjfcvp9cm3m7z/comedycentral.png?dl=1" group-title="BENSENENG",Comedy Central
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 
 /*-------BENSEHAT-------*/
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 1
@@ -324,10 +324,10 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/f855p4jlo48tu94/ikonser.png?dl=1" group-title="BENJOGET", I Konser
-https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=ikonser&bandwidth=default&sync=0
+http://go.delivery.on-site.se.ke/iduntv/usitipi/chunklist.m3u8?id=ikonser&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/whmqvjn8nhfpj6o/prambors.png?dl=1" group-title="BENJOGET",Prambors TV
-https://usee.galleryiptv.my.id/geyatissann/FTA-USEE/chunklist.m3u8?id=pramborstv&bandwidth=default&sync=0
+http://go.delivery.on-site.se.ke/iduntv/usitipi/FTA-USEE/chunklist.m3u8?id=pramborstv&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tef09a71g8zkh6s/mtvhits.jpg?dl=1" group-title="BENJOGET", MTV LIVE
 https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=mtvlive&bandwidth=default&sync=0
@@ -356,16 +356,16 @@ https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 /*----BENGAYA---*/
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/63j94zmklpmphwv/fashion%20lifestyle.png?dl=1" group-title="BENGAYA",Lifestyle & Fashion
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ff8jiafo5c9ji0s/fashion.png?dl=1" group-title="BENGAYA",Fashion Tv
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ff8jiafo5c9ji0s/fashion.png?dl=1" group-title="BENGAYA",Fashion Tv 18+
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b1400000.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/63j94zmklpmphwv/fashion%20lifestyle.png?dl=1" group-title="BENGAYA",Lifestyle & Fashion
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8yxjyxxjxp3zdm1/jewelery.jpg?dl=1" group-title="BENGAYA",Jewellery Tv
 https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
@@ -539,7 +539,7 @@ https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2242n4mm2m0jy9h/davinci.jpg?dl=1" group-title="BENBOCAH",Da Vinci
-https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=davinci&bandwidth=default&sync=0
+http://go.delivery.on-site.se.ke/iduntv/usitipi/chunklist.m3u8?id=davinci&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/685lel1jmlv3n6a/nickjr.png?dl=1" group-title="BENBOCAH",Nickjr
 https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=nickjr&bandwidth=default&sync=0
