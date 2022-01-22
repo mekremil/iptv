@@ -346,7 +346,7 @@ https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1ss9v92nqa0m578/citra%20dang.png?dl=1" group-title="BENJOGET",Citra Dangdut
-https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=citradangdut&bandwidth=default&sync=0
+http://tvnasional.mobie.in/PREMIER_VIDIO/citdangdut.m3u8
 
 /*----BENDOLAN---*/
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/d4h9g6nz0ho7mem/outdoor.png?dl=1" group-title="BENDOLAN", OUTDOOR CHANNEL
