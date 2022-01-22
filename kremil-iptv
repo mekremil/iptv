@@ -138,10 +138,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://tvnasional.mobie.in/M3U8/bioskop.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/pus1ptpq71t69wn/MFC.png?dl=1" group-title="BENONTON" ,My Cinema Asia
-https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=mycinemaasia&bandwidth=default&sync=0
+https://lnk.ec/MyCinemaAsia?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/pus1ptpq71t69wn/MFC.png?dl=1" group-title="BENONTON" ,My Family Channel
-https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=myfamily&bandwidth=default&sync=0
+https://lnk.ec/MYFAMILYCH?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/d00kfhaypu8qilj/mycinema.jpg?dl=1" group-title="BENONTON" ,My Cinema
 https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=mycinema&bandwidth=default&sync=0
@@ -150,10 +150,10 @@ https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=mycinema&bandwidth=
 http://210.210.155.35/uq2663/h/h18/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/a3aekjrtidp2m1e/paramount.jpg?dl=1" group-title="BENONTON", Paramount Channel
-https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=paramount&bandwidth=default&sync=0
+https://lnk.ec/paramountNetwork?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/sumrpiarehga588/galaxy-premium.jpg?dl=1" group-title="BENONTON",Galaxy Premium
-https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=galaxypremium&bandwidth=default&sync=0
+https://lnk.ec/GALAXYPREM?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/r7vu4buvsa92qkh/zee.jpg?dl=1" group-title="BENONTON",ZEEBIOSKOP
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -209,34 +209,34 @@ https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainmen
 http://go.delivery.on-site.se.ke/iduntv/usitipi/chunklist.m3u8?id=eatgo&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/bfnrgvmied9c2qb/blueant.png?dl=1" group-title="BENSENENG",Blue Ant
-http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+https://lnk.ec/rockEnter?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/reamgue1oysvyjm/bluex.png?dl=1" group-title="BENSENENG" ,Blue Ant Extreme
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8029nxrqhzlcqw4/designetwork.png?dl=1" group-title="BENSENENG", The Design Network
-https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
+//#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8029nxrqhzlcqw4/designetwork.png?dl=1" group-title="BENSENENG", The Design Network
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zbgbyuxe6iavzzf/BBClife.png?dl=1" group-title="BENSENENG",BBC Lifestyle
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/36766
+
+//#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zbgbyuxe6iavzzf/BBClife.png?dl=1" group-title="BENSENENG",BBC Lifestyle
+
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9aeof7rpa54ccog/gem.jpg?dl=1" group-title="BENSENENG",GEM
-http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+https://lnk.ec/sgem?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wfaccx6ilr0ql1j/K%2B.jpg?dl=1" group-title="BENSENENG",K+
-http://210.210.155.35/uq2663/h/h08/index.m3u8
+https://lnk.ec/kplus?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1s9v88k9h8rsxbe/oh%21k.png?dl=1" group-title="BENSENENG",OH!K TV
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/6mlqy9d3p928qml/wakuwaku.png?dl=1" group-title="BENSENENG",Wakuwaku
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/717
+https://lnk.ec/waku2?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/6vob7a68dgujbi1/kungfu.png?dl=1" group-title="BENSENENG",Kungfu TV
 http://go.delivery.on-site.se.ke/iduntv/usitipi/chunklist.m3u8?id=kungfutv&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vrrx8g055fdxulm/galaxy.png?dl=1" group-title="BENSENENG",Galaxy
-https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=galaxy&bandwidth=default&sync=0
+https://lnk.ec/galaxy?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rweuaru7k2nd5wv/useeprime.png?dl=1" group-title="BENSENENG", UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8 
@@ -285,10 +285,11 @@ https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-///#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9trqnyrxrnniw0e/useeport.png?dl=1" group-title="BENSEHAT", Usee Sports 1
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9trqnyrxrnniw0e/useeport.png?dl=1" group-title="BENSEHAT", Usee Sports 1
+http://goldentv.tech:25461/rachman/rachman/22973
 
-
-///#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9trqnyrxrnniw0e/useeport.png?dl=1" group-title="BENSEHAT", Usee Sports 2
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9trqnyrxrnniw0e/useeport.png?dl=1" group-title="BENSEHAT", Usee Sports 2
+http://goldentv.tech:25461/rachman/rachman/22974
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xe7o4kxbxoanus1/astroarena.png?dl=1" group-title="BENSEHAT",ASTRO ARENA 1
 http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/9616
