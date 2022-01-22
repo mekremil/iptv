@@ -1,6 +1,3 @@
-#EXTM3U refresh="3600"
-#PLAYLIST:kremiltipi
-
 /*------- BENPINTER ---------*/
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/w2oyuy8yyjoo3jg/BBCEARTH.jpg?dl=1" tvg-id="BathokGpc" tvg-name="BBC Earth" group-title="BENPINTER",BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -99,7 +96,7 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9h9p518pg4mdtlc/SCM.jpg?dl=1" group-title="BENONTON",Star Chinese Movie
-https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=starchinesemovies&bandwidth=default&sync=0
+http://desun.se.ke/bersyukur_masih_bisa_nonton/usee_id=scm
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/gub1k9q155o68da/ccm.jpg?dl=1" group-title="BENONTON",Celestial Clasic Movie
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
