@@ -29,18 +29,6 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvest
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0nyzh1l3whahvrj/Discovery_asia.jpg?dl=1" group-title="BENPINTER",Discovery Asia
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37391
-
-#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ijgf9phsy9jd99p/discoshed.jpg?dl=1" group-title="BENPINTER", Discovery Shed
-https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334725
-
-#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/f3er84zfgtv6z09/disco%20turbo.jpg?dl=1" group-title="BENPINTER", Discovery Turbo
-https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334726
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/kqvi353necgovnt/discoscience.jpg?dl=1" group-title="BENPINTER",Discovery Science HD
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37392
-
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/mmjwsuqpfbvkvab/animalplanet.jpg?dl=1" group-title="BENPINTER",Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -50,6 +38,14 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+
+///#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0nyzh1l3whahvrj/Discovery_asia.jpg?dl=1" group-title="BENPINTER",Discovery Asia
+
+///#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ijgf9phsy9jd99p/discoshed.jpg?dl=1" group-title="BENPINTER", Discovery Shed
+
+///#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/f3er84zfgtv6z09/disco%20turbo.jpg?dl=1" group-title="BENPINTER", Discovery Turbo
+
+///#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/kqvi353necgovnt/discoscience.jpg?dl=1" group-title="BENPINTER",Discovery Science HD
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/t2kalwqpu8fi1l3/NASATV.jpg?dl=1" group-title="BENPINTER",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
@@ -131,11 +127,14 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ztvgn29nc6cm1e0/chinesedrama.jpg?dl=1" group-title="BENONTON", Chinese Drama
-https://lnk.ec/chinesdrama?shareext.ts
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tzbqroj2t1127tw/imc.jpg?dl=1" group-title="BENONTON", IMC
+https://lnk.ec/imc?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/a3aekjrtidp2m1e/paramount.jpg?dl=1" group-title="BENONTON", Paramount Channel
 https://lnk.ec/paramountNetwork?shareext.ts
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ztvgn29nc6cm1e0/chinesedrama.jpg?dl=1" group-title="BENONTON", Chinese Drama
+https://lnk.ec/chinesdrama?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/sumrpiarehga588/galaxy-premium.jpg?dl=1" group-title="BENONTON",Galaxy Premium
 https://lnk.ec/GALAXYPREM?shareext.ts
@@ -154,8 +153,6 @@ https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=mycinema&bandwidth=
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iloumx1e6e5m5he/MCE.jpg?dl=1" group-title="BENONTON", My Cinema Europe
 http://210.210.155.35/uq2663/h/h18/01.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/r7vu4buvsa92qkh/zee.jpg?dl=1" group-title="BENONTON",ZEEBIOSKOP
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -257,17 +254,12 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iphksq2kxwl81hf/beinsport.png?dl=1" group-title="BENSEHAT",BEIN 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/o4168660ca0ou9v/Fight-Sports.png?dl=1" group-title="BENSEHAT",Fight Sport
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/uy37qkszypjwwh4/spotv.jpg?dl=0" group-title="BENSEHAT",SPOTV
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/uy37qkszypjwwh4/spotv.jpg?dl=1" group-title="BENSEHAT",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
@@ -288,10 +280,10 @@ https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mp
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9trqnyrxrnniw0e/useeport.png?dl=1" group-title="BENSEHAT", Usee Sports 1
-http://goldentv.tech:25461/rachman/rachman/22973
+https://dik.si/SEuseeSport1?shareext.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9trqnyrxrnniw0e/useeport.png?dl=1" group-title="BENSEHAT", Usee Sports 2
-http://goldentv.tech:25461/rachman/rachman/22974
+https://dik.si/SEuseeSPorts_2?shareext.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/uhm6kr8zkmlmbjm/champion.jpg?dl=1" group-title="BENSEHAT", Champion 1
 https://etus.link/champ1roll?shareext.m3u8
@@ -355,7 +347,6 @@ http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1ss9v92nqa0m578/citra%20dang.png?dl=1" group-title="BENJOGET",Citra Dangdut
 https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=citradangdut&bandwidth=default&sync=0
-
 
 /*----BENDOLAN---*/
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/d4h9g6nz0ho7mem/outdoor.png?dl=1" group-title="BENDOLAN", OUTDOOR CHANNEL
