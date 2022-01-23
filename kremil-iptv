@@ -128,7 +128,7 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tzbqroj2t1127tw/imc.jpg?dl=1" group-title="BENONTON", IMC
-https://lnk.ec/imc?shareext.ts
+http://go.delivery.on-site.se.ke/iduntv/usitipi/chunklist.m3u8?id=imc&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/a3aekjrtidp2m1e/paramount.jpg?dl=1" group-title="BENONTON", Paramount Channel
 https://lnk.ec/paramountNetwork?shareext.ts
@@ -152,7 +152,7 @@ https://lnk.ec/MYFAMILYCH?shareext.ts
 https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=mycinema&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iloumx1e6e5m5he/MCE.jpg?dl=1" group-title="BENONTON", My Cinema Europe
-http://210.210.155.35/uq2663/h/h18/01.m3u8
+http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/r7vu4buvsa92qkh/zee.jpg?dl=1" group-title="BENONTON",ZEEBIOSKOP
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
