@@ -92,7 +92,7 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9h9p518pg4mdtlc/SCM.jpg?dl=1" group-title="BENONTON",Star Chinese Movie
-https://lnk.ec/scmovie?shareext.ts
+http://desun.se.ke/bersyukur_masih_bisa_nonton/usee_id=scm
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/gub1k9q155o68da/ccm.jpg?dl=1" group-title="BENONTON",Celestial Clasic Movie
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -166,9 +166,6 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lwddyazst5dr6tq/asianfood.png?dl=1" group-title="BENSENENG", Asian Food Network
-http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/28705
-
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qbf3qbgr92f79s1/lifetime.jpg?dl=1" group-title="BENSENENG",LifeTime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -204,8 +201,9 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/if6u4uv0jre37ii/food%20networkf.png?dl=1" group-title="BENSENENG", Eat & Go
-http://go.delivery.on-site.se.ke/iduntv/usitipi/chunklist.m3u8?id=eatgo&bandwidth=default&sync=0
+///#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lwddyazst5dr6tq/asianfood.png?dl=1" group-title="BENSENENG", Asian Food Network
+
+///#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/if6u4uv0jre37ii/food%20networkf.png?dl=1" group-title="BENSENENG", Eat & Go
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/bfnrgvmied9c2qb/blueant.png?dl=1" group-title="BENSENENG",Blue Ant
 https://lnk.ec/rockEnter?shareext.ts
@@ -350,7 +348,7 @@ http://tvnasional.mobie.in/PREMIER_VIDIO/citdangdut.m3u8
 
 /*----BENDOLAN---*/
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/d4h9g6nz0ho7mem/outdoor.png?dl=1" group-title="BENDOLAN", OUTDOOR CHANNEL
-https://feed.play.mv/live/1009/E6O26jTzFh/master.m3u8
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zbqdmvq7m2fartx/trvl.png?dl=1" group-title="BENDOLAN", Travel Channel
 https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
