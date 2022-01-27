@@ -209,7 +209,7 @@ https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainmen
 https://lnk.ec/rockEnter?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/reamgue1oysvyjm/bluex.png?dl=1" group-title="BENSENENG" ,Blue Ant Extreme
-http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+https://lnk.ec/RockExtreme?shareext.ts
 
 //#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8029nxrqhzlcqw4/designetwork.png?dl=1" group-title="BENSENENG", The Design Network
 
@@ -223,8 +223,8 @@ https://lnk.ec/sgem?shareext.ts
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wfaccx6ilr0ql1j/K%2B.jpg?dl=1" group-title="BENSENENG",K+
 https://lnk.ec/kplus?shareext.ts
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1s9v88k9h8rsxbe/oh%21k.png?dl=1" group-title="BENSENENG",OH!K TV
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+////#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1s9v88k9h8rsxbe/oh%21k.png?dl=1" group-title="BENSENENG",OH!K TV
+
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/6mlqy9d3p928qml/wakuwaku.png?dl=1" group-title="BENSENENG",Wakuwaku
 https://lnk.ec/waku2?shareext.ts
@@ -497,7 +497,7 @@ https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nyd5rnt0rraztm2/aniplus.jpg?dl=1" group-title="BENBOCAH",Aniplus
-https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=aniplus&bandwidth=default&sync=0
+http://go.delivery.on-site.se.ke/iduntv/usitipi/chunklist.m3u8?id=aniplus&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0yznuooz795x2tk/babytv.png?dl=1" group-title="BENBOCAH",Baby TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -549,6 +549,11 @@ https://on-load.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 ///http://go.delivery.on-site.se.ke/iduntv/usitipi/chunklist.m3u8?id=nickjr&bandwidth=default&sync=0
 
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/gz703rqvi1mey02/mykids.jpg?dl=1" group-title="BENBOCAH", MyKids
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a
+
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ckdd9cj4sf2jhzr/bab%20first.jpg?dl=1" group-title="BENBOCAH",Baby First 
 http://go.delivery.on-site.se.ke/iduntv/usitipi/chunklist.m3u8?id=babyfirst&bandwidth=default&sync=0
 
@@ -557,9 +562,6 @@ http://go.delivery.on-site.se.ke/iduntv/usitipi/chunklist.m3u8?id=duniaanak&band
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1vyhue42j1d4blp/bizkid.png?dl=1" group-title="BENBOCAH",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/gz703rqvi1mey02/mykids.jpg?dl=1" group-title="BENBOCAH", MyKids USEETV 
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wth6p6je4xlidz2/lingua.jpg?dl=1" group-title="BENBOCAH",Lingua Channel
 https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=lingua&bandwidth=default&sync=0
