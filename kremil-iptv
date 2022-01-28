@@ -101,10 +101,14 @@ http://zalogitv.tech:8080/alv7/7589/25249
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/plcfja9ssgnfb9x/flix.png?dl=1" group-title="BENONTON",FLIK HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/plcfja9ssgnfb9x/flix.png?dl=1" group-title="BENONTON",FLIK 1
 http://zalogitv.tech:8080/alv7/7589/1379
-///http://zalogitv.tech:8080/alv7/7589/25243
-///http://zalogitv.tech:8080/alv7/7589/1378
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/plcfja9ssgnfb9x/flix.png?dl=1" group-title="BENONTON",FLIK 2
+http://zalogitv.tech:8080/alv7/7589/25243
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/plcfja9ssgnfb9x/flix.png?dl=1" group-title="BENONTON",FLIK 3
+http://zalogitv.tech:8080/alv7/7589/1378
 ///https://Lnk.ec/FLIK?shareext.ts
 
 
