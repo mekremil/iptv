@@ -100,7 +100,8 @@ https://lnk.ec/scmovie?shareext.ts
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/plcfja9ssgnfb9x/flix.png?dl=1" group-title="BENONTON",FLIK HD
-https://Lnk.ec/FLIK?shareext.ts
+http://diaztv.xyz:25461/diaztv/diaztv/44
+//https://Lnk.ec/FLIK?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tzbqroj2t1127tw/imc.jpg?dl=1" group-title="BENONTON", IMC
 http://go.delivery.on-site.se.ke/iduntv/usitipi/chunklist.m3u8?id=imc&bandwidth=default&sync=0
@@ -141,6 +142,9 @@ https://lnk.ec/GALAXYPREM?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1rho9026qt6udud/bioskoop%20indonesia.png?dl=1" group-title="BENONTON" ,Bioskop Indonesia
 https://lnk.ec/bioskopIndo?shareext.ts
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1rho9026qt6udud/bioskoop%20indonesia.png?dl=1" group-title="BENONTON" ,Sinema Indonesia
+http://diaztv.xyz:25461/diaztv/diaztv/238
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/pus1ptpq71t69wn/MFC.png?dl=1" group-title="BENONTON" ,My Cinema Asia
 https://lnk.ec/MyCinemaAsia?shareext.ts
@@ -278,19 +282,19 @@ https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mp
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9trqnyrxrnniw0e/useeport.png?dl=1" group-title="BENSEHAT", Usee Sports 1
-https://dik.si/SEuseeSport1?shareext.m3u8
+http://diaztv.xyz:25461/diaztv/diaztv/79
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9trqnyrxrnniw0e/useeport.png?dl=1" group-title="BENSEHAT", Usee Sports 2
-https://dik.si/SEuseeSPorts_2?shareext.m3u8
+http://diaztv.xyz:25461/diaztv/diaztv/80
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/uhm6kr8zkmlmbjm/champion.jpg?dl=1" group-title="BENSEHAT", Champion 1
-https://etus.link/champ1roll?shareext.m3u8
+http://diaztv.xyz:25461/diaztv/diaztv/282
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/uhm6kr8zkmlmbjm/champion.jpg?dl=1" group-title="BENSEHAT", Champion 2
-https://etus.link/champ2roll?shareext.m3u8
+http://diaztv.xyz:25461/diaztv/diaztv/283
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/uhm6kr8zkmlmbjm/champion.jpg?dl=1" group-title="BENSEHAT", Champion 3
-https://etus.link/champ3roll?shareext.m3u8
+http://diaztv.xyz:25461/diaztv/diaztv/284
 
 ///#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xe7o4kxbxoanus1/astroarena.png?dl=1" group-title="BENSEHAT",ASTRO ARENA 1
 
