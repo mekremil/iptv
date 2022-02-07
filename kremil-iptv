@@ -104,7 +104,6 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/plcfja9ssgnfb9x/flix.png?dl=1" group-title="BENONTON",FLIK
 https://Lnk.ec/FLIK?shareext.ts
-///http://zalogitv.tech:8080/alv7/7589/1378
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tzbqroj2t1127tw/imc.jpg?dl=1" group-title="BENONTON", IMC
 http://go.delivery.on-site.se.ke/iduntv/usitipi/chunklist.m3u8?id=imc&bandwidth=default&sync=0
@@ -289,10 +288,10 @@ http://zalogitv.tech:8080/alv7/7589/1717
 http://zalogitv.tech:8080/alv7/7589/1718
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/uhm6kr8zkmlmbjm/champion.jpg?dl=1" group-title="BENSEHAT", Champion 1
-///http://diaztv.xyz:25461/diaztv/diaztv/282
+http://tvnid.wapgem.com/vidio/7.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/uhm6kr8zkmlmbjm/champion.jpg?dl=1" group-title="BENSEHAT", Champion 2
-http://diaztv.xyz:25461/diaztv/diaztv/283
+http://tvnid.wapgem.com/vidio/8.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/uhm6kr8zkmlmbjm/champion.jpg?dl=1" group-title="BENSEHAT", Champion 3
 http://diaztv.xyz:25461/diaztv/diaztv/284
