@@ -93,8 +93,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9h9p518pg4mdtlc/SCM.jpg?dl=1" group-title="BENONTON",Star Chinese Movie
 https://lnk.ec/scmovie?shareext.ts
-//http://zalogitv.tech:8080/alv7/7589/25249
-//http://zalogitv.tech:8080/alv7/7589/1396
+
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/gub1k9q155o68da/ccm.jpg?dl=1" group-title="BENONTON",Celestial Clasic Movie
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -106,7 +105,8 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 https://Lnk.ec/FLIK?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tzbqroj2t1127tw/imc.jpg?dl=1" group-title="BENONTON", IMC
-http://go.delivery.on-site.se.ke/iduntv/usitipi/chunklist.m3u8?id=imc&bandwidth=default&sync=0
+http://49.128.184.34:19420/IMC/index.m3u8?shareext/ts
+https://lnk.ec/imc?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3nwmf5lridl6tif/HITSM.jpg?dl=1" group-title="BENONTON",Hits Movie
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
