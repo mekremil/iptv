@@ -493,7 +493,7 @@ https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/c801xix73sjjslo/rt.png?dl=1" group-title="BENRAKUDET",RToday
-https://live-hr6yv36f.rmbl.ws/slot-30/ngrp:srak-wx8r_all/chunklist_b2478000.m3u8
+https://live-hr6yv36f.rmbl.ws/slot-30/ngrp:srak-wx8r_all/chunklist_b978000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vwk5siv84k5vbsk/CGTN.png?dl=1" group-title="BENRAKUDET", CGTN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
