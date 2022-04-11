@@ -92,7 +92,7 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9h9p518pg4mdtlc/SCM.jpg?dl=1" group-title="BENONTON",Star Chinese Movie
-https://lnk.ec/scmovie?shareext.ts
+http://server.dravie.host:2082/begaltv/dravietv/74
 
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/gub1k9q155o68da/ccm.jpg?dl=1" group-title="BENONTON",Celestial Clasic Movie
@@ -102,11 +102,10 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/plcfja9ssgnfb9x/flix.png?dl=1" group-title="BENONTON",FLIK
-https://Lnk.ec/FLIK?shareext.ts
+http://server.dravie.host:2082/begaltv/dravietv/46
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tzbqroj2t1127tw/imc.jpg?dl=1" group-title="BENONTON", IMC
-http://49.128.184.34:19420/IMC/index.m3u8?shareext/ts
-https://lnk.ec/imc?shareext.ts
+http://server.dravie.host:2082/begaltv/dravietv/69
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3nwmf5lridl6tif/HITSM.jpg?dl=1" group-title="BENONTON",Hits Movie
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -266,6 +265,11 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/uy37qkszypjwwh4/spotv.jpg?dl=1" group-title="BENSEHAT",SPOTV2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/okit2fwcg7q7nkr/mncsport.jpg?dl=1" group-title="BENSEHAT",Mnc Sport
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -329,14 +333,13 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/f855p4jlo48tu94/ikonser.png?dl=1" group-title="BENJOGET", I Konser
-http://go.delivery.on-site.se.ke/iduntv/usitipi/chunklist.m3u8?id=ikonser&bandwidth=default&sync=0
-///http://zalogitv.tech:8080/alv7/7589/1473
+http://server.dravie.host:2082/begaltv/dravietv/143
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/whmqvjn8nhfpj6o/prambors.png?dl=1" group-title="BENJOGET",Prambors TV
 http://go.delivery.on-site.se.ke/iduntv/usitipi/FTA-USEE/chunklist.m3u8?id=pramborstv&bandwidth=default&sync=0
 
-//#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tef09a71g8zkh6s/mtvhits.jpg?dl=1" group-title="BENJOGET", MTV
-//http://zalogitv.tech:8080/alv7/7589/1471
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tef09a71g8zkh6s/mtvhits.jpg?dl=1" group-title="BENJOGET", MTV
+http://server.dravie.host:2082/begaltv/dravietv/144
 
 //#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tef09a71g8zkh6s/mtvhits.jpg?dl=1" group-title="BENJOGET", MTV LIVE
 //http://zalogitv.tech:8080/alv7/7589/1864
