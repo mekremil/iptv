@@ -102,7 +102,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/plcfja9ssgnfb9x/flix.png?dl=1" group-title="BENONTON",FLIK
-http://server.dravie.host:2082/begaltv/dravietv/46
+https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=flik
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tzbqroj2t1127tw/imc.jpg?dl=1" group-title="BENONTON", IMC
 http://server.dravie.host:2082/begaltv/dravietv/69
@@ -139,22 +139,22 @@ https://lnk.ec/paramountNetwork?shareext.ts
 https://lnk.ec/chinesdrama?shareext.ts
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/sumrpiarehga588/galaxy-premium.jpg?dl=1" group-title="BENONTON",Galaxy Premium
-https://lnk.ec/GALAXYPREM?shareext.ts
+https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=galaxypremium
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1rho9026qt6udud/bioskoop%20indonesia.png?dl=1" group-title="BENONTON" ,Bioskop Indonesia
-https://lnk.ec/bioskopIndo?shareext.ts
+https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=bioskopindonesia
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1rho9026qt6udud/bioskoop%20indonesia.png?dl=1" group-title="BENONTON" ,Sinema Indonesia
 http://diaztv.xyz:25461/diaztv/diaztv/238
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/pus1ptpq71t69wn/MFC.png?dl=1" group-title="BENONTON" ,My Cinema Asia
-https://lnk.ec/MyCinemaAsia?shareext.ts
+https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=mycinemaasia
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/pus1ptpq71t69wn/MFC.png?dl=1" group-title="BENONTON" ,My Family Channel
-https://lnk.ec/MYFAMILYCH?shareext.ts
+https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=myfamily
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/d00kfhaypu8qilj/mycinema.jpg?dl=1" group-title="BENONTON" ,My Cinema
-http://zalogitv.tech:8080/alv7/7589/25239
+https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=mycinema
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iloumx1e6e5m5he/MCE.jpg?dl=1" group-title="BENONTON", My Cinema Europe
 http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
@@ -286,10 +286,10 @@ https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mp
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9trqnyrxrnniw0e/useeport.png?dl=1" group-title="BENSEHAT", Usee Sports 1
-http://zalogitv.tech:8080/alv7/7589/1717
+https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=useesport
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9trqnyrxrnniw0e/useeport.png?dl=1" group-title="BENSEHAT", Usee Sports 2
-http://zalogitv.tech:8080/alv7/7589/1718
+https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=useesports2
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/uhm6kr8zkmlmbjm/champion.jpg?dl=1" group-title="BENSEHAT", Champion 1
 http://tvnid.wapgem.com/vidio/7.m3u8
@@ -333,13 +333,14 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/f855p4jlo48tu94/ikonser.png?dl=1" group-title="BENJOGET", I Konser
-http://server.dravie.host:2082/begaltv/dravietv/143
+https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=ikonser
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/whmqvjn8nhfpj6o/prambors.png?dl=1" group-title="BENJOGET",Prambors TV
 http://go.delivery.on-site.se.ke/iduntv/usitipi/FTA-USEE/chunklist.m3u8?id=pramborstv&bandwidth=default&sync=0
+https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=pramborstv
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tef09a71g8zkh6s/mtvhits.jpg?dl=1" group-title="BENJOGET", MTV
-http://server.dravie.host:2082/begaltv/dravietv/144
+https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=mtvlive
 
 //#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tef09a71g8zkh6s/mtvhits.jpg?dl=1" group-title="BENJOGET", MTV LIVE
 //http://zalogitv.tech:8080/alv7/7589/1864
