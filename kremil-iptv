@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/w2oyuy8yyjoo3jg/BBCEARTH.jpg?dl=1" tvg-id="BathokGpc" tvg-name="BBC Earth" group-title="BENPINTER",BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://av-live-cdnn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+https://av-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #EXTINF:-1 group-title="BENPINTER" tvg-logo="https://www.dropbox.com/s/f4p9fv6cit8nsy0/natgeowild.jpg?dl=1", Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
