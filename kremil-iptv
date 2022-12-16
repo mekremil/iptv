@@ -654,7 +654,7 @@ https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/sx94tjirn3n7q1t/indosiar.png?dl=1" group-title="BENLOKAL",Indosiar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://conversant.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
+http://rr2.dens.tv/s/s04/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Indosiar
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/73lhnl2w6q4p0io/kompastv.png?dl=1" group-title="BENLOKAL",Kompas Tv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
