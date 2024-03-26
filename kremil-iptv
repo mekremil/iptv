@@ -63,23 +63,23 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekke
 ///https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
 /*-------BENONTON ---------*/
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/48nl0tg66w9axsk/HBO.jpg?dl=1" group-title="BENONTON",Hbo
-http://103.113.116.150:25461/mtm1/12345/16
+///#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/48nl0tg66w9axsk/HBO.jpg?dl=1" group-title="BENONTON",Hbo
+///http://103.113.116.150:25461/mtm1/12345/16
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2oztm0hsqotqx7j/HBOSIG.jpg?dl=1" group-title="BENONTON",Hbo Signature
-http://103.113.116.150:25461/mtm1/12345/18
+///#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2oztm0hsqotqx7j/HBOSIG.jpg?dl=1" group-title="BENONTON",Hbo Signature
+///http://103.113.116.150:25461/mtm1/12345/18
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/g6zlr6hvmh5640b/HBOFAM.jpg?dl=1" group-title="BENONTON",Hbo Family
-http://103.113.116.150:25461/mtm1/12345/19
+///#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/g6zlr6hvmh5640b/HBOFAM.jpg?dl=1" group-title="BENONTON",Hbo Family
+///http://103.113.116.150:25461/mtm1/12345/19
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/v6ofvf1s8w9he2v/HBOHITS.jpg?dl=1" group-title="BENONTON",Hbo Hits
-http://103.113.116.150:25461/mtm1/12345/17
+///#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/v6ofvf1s8w9he2v/HBOHITS.jpg?dl=1" group-title="BENONTON",Hbo Hits
+///http://103.113.116.150:25461/mtm1/12345/17
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/93i2kxqjv8af6uq/warner.jpg?dl=1" group-title="BENONTON",Warner
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+///#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/93i2kxqjv8af6uq/warner.jpg?dl=1" group-title="BENONTON",Warner
+///#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+///#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+///#EXTVLCOPT:http-referrer=https://visionplus.id
+///https://nyanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/g0c8sidvoiht000/TVNMOVIES.jpg?dl=1" group-title="BENONTON",Tvn Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -286,7 +286,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/p893d3x1w8gu83s/musictv.png?dl=1" group-title="BENJOGET",Music TV
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/p893d3x1w8gu83s/musictv.png?dl=1" group-title="BENSENENG",Music TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -297,6 +297,12 @@ https://av-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tef09a71g8zkh6s/mtvhits.jpg?dl=1" group-title="BENSENENG", MTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MBNBjW5/arirang.png" group-title="BENSENENG", ARIRANG
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -322,11 +328,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyle
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tef09a71g8zkh6s/mtvhits.jpg?dl=1" group-title="BENJOGET", MTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 ///#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/f855p4jlo48tu94/ikonser.png?dl=1" group-title="BENJOGET", I Konser
 ///https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=ikonser
@@ -905,3 +906,4 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://av-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
